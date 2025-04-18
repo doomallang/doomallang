@@ -1,19 +1,45 @@
-## Hi there 👋
+<h1 align="center">안녕하세요. 두동현입니다.</h1>
+<h3 align="center">💻 6년차 풀스택 개발자 | Spring Boot & Next.js | AWS & CI/CD Enthusiast</h3>
 
-<!--
-**doomallang/doomallang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-id&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
 
+- 🌟 6년차 **풀스택 개발자**  
+- 🛠 주요 스택: `Spring Boot`, `Next.js`, `TypeScript`, `React`, `MySQL`, `Redis`
+- ☁️ 클라우드 인프라: `AWS`, `EC2`, `S3`, `CloudFront`, `RDS`
+- 🔄 CI/CD 경험: `GitHub Actions`, `Jenkins`, `CodeDeploy`
+- 🧪 테스트 코드 & 코드 품질 중시
+- 💬 포트폴리오: [https://portfolio-t7fthjnfn-doomoles-projects.vercel.app](https://portfolio-t7fthjnfn-doomoles-projects.vercel.app)
 
-<a href="https://portfolio-t7fthjnfn-doomoles-projects.vercel.app/">포트폴리오</a>
+---
+
+### 🛠 Tech Stack
+
+#### ⚙️ Backend
+`Spring Boot` | `Spring Security` | `JPA` | `QueryDSL` | `MyBatis`
+
+#### 🎨 Frontend
+`Next.js` | `React` | `TypeScript` | `TailwindCSS` | `Ant Design`
+
+#### ☁️ DevOps & Infra
+`AWS` | `Docker` | `Jenkins` | `Nginx` | `GitHub Actions`
+
+#### 🗄️ DB & Caching
+`MySQL` | `Redis` |
+
+---
+
+### 📫 Contact Me
+
+- 📨 Email: doo_style@naver.com  
+- 💼 Portfolio: [https://portfolio-t7fthjnfn-doomoles-projects.vercel.app](https://portfolio-t7fthjnfn-doomoles-projects.vercel.app)  
+- 🧠 Blog: [many.tistory.com](https://many.tistory.com)  
+
+---
+
+<p align="center">방문해주셔서 감사합니다! 🚀</p>
